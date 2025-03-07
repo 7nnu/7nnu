@@ -1,6 +1,7 @@
 ## Hi there 👋
 - ✅Luau
 - 🌱Python
+- 🌱Javascript
 <!--
 **7nnu/7nnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
